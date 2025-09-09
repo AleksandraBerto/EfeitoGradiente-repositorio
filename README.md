@@ -5,7 +5,7 @@ Este projeto é um experimento em **HTML e CSS** que demonstra a capacidade de c
 É um ótimo projeto para praticar técnicas avançadas de CSS, como a propriedade `@keyframes` para definir animações personalizadas e o uso de **gradientes** (`linear-gradient`) como parte do design.
 
 ## 🚀 Acesse o Site
-
+https://aleksandraberto.github.io/EfeitoGradiente-repositorio/
 
 ## 📂 Estrutura do projeto
 /AnimatedTextEffect
